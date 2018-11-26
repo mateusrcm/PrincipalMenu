@@ -1,0 +1,51 @@
+C:\Users\Aluno\Downloads\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\obj\Debug\PrincipalMenu.Menu.resources
+C:\Users\Aluno\Downloads\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\obj\Debug\PrincipalMenu.Properties.Resources.resources
+C:\Users\Aluno\Downloads\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\obj\Debug\Monitor.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\bin\Debug\PrincipalMenu.exe
+C:\Users\Aluno\Downloads\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\bin\Debug\PrincipalMenu.pdb
+C:\Users\Aluno\Downloads\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\obj\Debug\Monitor.modoAvancado.resources
+C:\Users\Aluno\Downloads\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\obj\Debug\Monitor.modoFacil.resources
+C:\Users\Aluno\Downloads\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\obj\Debug\PrincipalMenu.exe
+C:\Users\Aluno\Downloads\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\obj\Debug\PrincipalMenu.pdb
+C:\Users\joh66\Documents\Visual Studio 2017\Projects\MachineTask-master\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+C:\Users\joh66\Documents\Visual Studio 2017\Projects\MachineTask-master\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\obj\Debug\Monitor.modoAvancado.resources
+C:\Users\joh66\Documents\Visual Studio 2017\Projects\MachineTask-master\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\obj\Debug\Monitor.modoFacil.resources
+C:\Users\joh66\Documents\Visual Studio 2017\Projects\MachineTask-master\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\obj\Debug\PrincipalMenu.Properties.Resources.resources
+C:\Users\joh66\Documents\Visual Studio 2017\Projects\MachineTask-master\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\obj\Debug\Monitor.csproj.GenerateResource.cache
+C:\Users\joh66\Documents\Visual Studio 2017\Projects\MachineTask-master\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\joh66\Documents\Visual Studio 2017\Projects\MachineTask-master\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\obj\Debug\PrincipalMenu.exe
+C:\Users\joh66\Documents\Visual Studio 2017\Projects\MachineTask-master\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\obj\Debug\PrincipalMenu.pdb
+C:\Users\joh66\Documents\Visual Studio 2017\Projects\MachineTask-master\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\bin\Debug\PrincipalMenu.exe
+C:\Users\joh66\Documents\Visual Studio 2017\Projects\MachineTask-master\MachineTask-master\MachineTask-master\PrincipalMenu\PrincipalMenu\bin\Debug\PrincipalMenu.pdb
+C:\Users\Aluno\Downloads\PrincipalMenu\PrincipalMenu\bin\Debug\PrincipalMenu.exe
+C:\Users\Aluno\Downloads\PrincipalMenu\PrincipalMenu\bin\Debug\PrincipalMenu.pdb
+C:\Users\Aluno\Downloads\PrincipalMenu\PrincipalMenu\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\PrincipalMenu\PrincipalMenu\obj\Debug\Monitor.modoAvancado.resources
+C:\Users\Aluno\Downloads\PrincipalMenu\PrincipalMenu\obj\Debug\Monitor.modoFacil.resources
+C:\Users\Aluno\Downloads\PrincipalMenu\PrincipalMenu\obj\Debug\PrincipalMenu.Properties.Resources.resources
+C:\Users\Aluno\Downloads\PrincipalMenu\PrincipalMenu\obj\Debug\Monitor.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\PrincipalMenu\PrincipalMenu\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\PrincipalMenu\PrincipalMenu\obj\Debug\PrincipalMenu.exe
+C:\Users\Aluno\Downloads\PrincipalMenu\PrincipalMenu\obj\Debug\PrincipalMenu.pdb
+C:\Users\Aluno\Downloads\PrincipalMenu\PrincipalMenu\PrincipalMenu\bin\Debug\PrincipalMenu.exe
+C:\Users\Aluno\Downloads\PrincipalMenu\PrincipalMenu\PrincipalMenu\bin\Debug\PrincipalMenu.pdb
+C:\Users\Aluno\Downloads\PrincipalMenu\PrincipalMenu\PrincipalMenu\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\PrincipalMenu\PrincipalMenu\PrincipalMenu\obj\Debug\Monitor.modoAvancado.resources
+C:\Users\Aluno\Downloads\PrincipalMenu\PrincipalMenu\PrincipalMenu\obj\Debug\Monitor.modoFacil.resources
+C:\Users\Aluno\Downloads\PrincipalMenu\PrincipalMenu\PrincipalMenu\obj\Debug\PrincipalMenu.Properties.Resources.resources
+C:\Users\Aluno\Downloads\PrincipalMenu\PrincipalMenu\PrincipalMenu\obj\Debug\Monitor.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\PrincipalMenu\PrincipalMenu\PrincipalMenu\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\PrincipalMenu\PrincipalMenu\PrincipalMenu\obj\Debug\PrincipalMenu.exe
+C:\Users\Aluno\Downloads\PrincipalMenu\PrincipalMenu\PrincipalMenu\obj\Debug\PrincipalMenu.pdb
+C:\Users\joh66\Desktop\PrincipalMenu\bin\Debug\PrincipalMenu.exe
+C:\Users\joh66\Desktop\PrincipalMenu\bin\Debug\PrincipalMenu.pdb
+C:\Users\joh66\Desktop\PrincipalMenu\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+C:\Users\joh66\Desktop\PrincipalMenu\obj\Debug\Monitor.modoAvancado.resources
+C:\Users\joh66\Desktop\PrincipalMenu\obj\Debug\Monitor.modoFacil.resources
+C:\Users\joh66\Desktop\PrincipalMenu\obj\Debug\PrincipalMenu.Properties.Resources.resources
+C:\Users\joh66\Desktop\PrincipalMenu\obj\Debug\Monitor.csproj.GenerateResource.cache
+C:\Users\joh66\Desktop\PrincipalMenu\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\joh66\Desktop\PrincipalMenu\obj\Debug\PrincipalMenu.exe
+C:\Users\joh66\Desktop\PrincipalMenu\obj\Debug\PrincipalMenu.pdb
